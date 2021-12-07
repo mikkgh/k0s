@@ -7,7 +7,7 @@ Consiste en instalar k0s en el servidor de clouding.io y hacer que funcione.
 
         1.- Acceso a los servidores.
     
-        2.- Comprobación del cluster.
+        2.- Comprobación del clúster.
     
         3.- Despliegue de las aplicaciones.
     
