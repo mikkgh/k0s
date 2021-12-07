@@ -16,6 +16,6 @@ Instalamos apache y cambiamos la página por defecto por una con nuestro nombre.
 
 ![imagen](https://github.com/mikkgh/k0s/blob/main/imagenes/apache1.png)
 
-Desde el navegador.
+Desde el navegador con su ip pública.
 
 ![imagen](https://github.com/mikkgh/k0s/blob/main/imagenes/apache2.png)
