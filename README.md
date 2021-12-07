@@ -1,11 +1,11 @@
 # k0s
 ## Descripcion
-tarea k0s
+Tarea k0s
 
 ## índice
-1. intro
-2. mas cosas
-3. muchas mas cosas
+1. Introducción
+2. ¿Qué es k0s?
+3. Cloud Server elegido
 
 
 
