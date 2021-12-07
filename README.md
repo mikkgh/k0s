@@ -1,5 +1,5 @@
 # K0S
-## Descripcion
+## DESCRIPCIÓN
 Tarea K0S. 2º ASIR - HLC
 
 ## ÍNDICE
@@ -18,3 +18,4 @@ Pelado Nerd.
 [k0s - Kubernetes LIVIANO y PRODUCTIVO?](https://www.youtube.com/watch?v=netJ0Nuj_tw&t=200s)
 
 ## LICENCIA
+![imagen](https://github.com/mikkgh/k0s/blob/main/imagenes/licencia.png)
