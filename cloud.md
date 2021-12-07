@@ -4,18 +4,18 @@ Clouding.io es una empresa domiciliada en Barcelona –  España, que se encarga
 
 Características que nos ofrece:
 
-    •Una amplia gama de distribuciones Linux a elegir.
+    • Una amplia gama de distribuciones Linux a elegir.
 
-    •Un alto rendimiento (red a 20Gbps, procesadores Intel y discos SSD).
+    • Un alto rendimiento (red a 20Gbps, procesadores Intel y discos SSD).
 
-    •Una plataforma 100% redundante.
+    • Una plataforma 100% redundante.
 
-    •Tarifas por horas y uso.
+    • Tarifas por horas y uso.
 
-    •Uso de tecnologías abiertas.
+    • Uso de tecnologías abiertas.
 
-    •Amplios controles de monitorización.
+    • Amplios controles de monitorización.
 
-    •Desarrollo de tecnologías a medida y realizadas por el mismo equipo.
+    • Desarrollo de tecnologías a medida y realizadas por el mismo equipo.
 
-    •La posibilidad de expandir según nuestras necesidades.
+    • La posibilidad de expandir según nuestras necesidades.
