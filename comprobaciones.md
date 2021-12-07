@@ -1,4 +1,4 @@
-## COMPROBACIONES
+# COMPROBACIONES
 Realizaremos la tarea 3.2 en el servidor con k0s.
 
 1. Creamos el archivo yaml con la descripción del pod.
