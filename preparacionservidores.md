@@ -1,4 +1,4 @@
-#PREPARACIÓN DEL SERVIDOR
+# PREPARACIÓN DEL SERVIDOR
 
 ## ACCESO POR SSH
 Configuramos el acceso al servidor remoto para acceder sin contraseña.
