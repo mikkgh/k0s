@@ -18,5 +18,9 @@ Albert Coronado.
 Pelado Nerd.
 [k0s - Kubernetes LIVIANO y PRODUCTIVO?](https://www.youtube.com/watch?v=netJ0Nuj_tw&t=200s)
 
+K0S project.
+[Quick start guide.](https://docs.k0sproject.io/v1.22.4+k0s.1/install/)
+
+
 ## LICENCIA
 ![imagen](https://github.com/mikkgh/k0s/blob/main/imagenes/licencia.png)
