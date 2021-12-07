@@ -1,4 +1,5 @@
 # K0S
+![imagen](https://github.com/mikkgh/k0s/blob/main/imagenes/k0s.png)
 ## DESCRIPCIÓN
 Tarea K0S. 2º ASIR - HLC
 
