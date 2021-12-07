@@ -1,4 +1,4 @@
-## INSTALACIÓN
+# INSTALACIÓN
 
 1. Con curl descargamos el paquete que descarga el instalador y lo ejecutamos con sh.
 
