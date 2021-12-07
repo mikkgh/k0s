@@ -10,5 +10,8 @@ Tarea k0s
 
 
 ##referencias
-[mikk](www.asir2.com)
+
+
+Albert Coronado
+[Tutorial Kubernetes](https://www.youtube.com/watch?v=gmFSmzAWcig)
 
