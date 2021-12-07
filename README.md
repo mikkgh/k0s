@@ -11,7 +11,6 @@ Tarea K0S. 2º ASIR - HLC
 6. [Comprobaciones de funcionamiento](https://github.com/mikkgh/k0s/blob/main/comprobaciones.md)
 
 ## REFERENCIAS
-
 Albert Coronado
 [Tutorial Kubernetes](https://www.youtube.com/watch?v=gmFSmzAWcig)
 
